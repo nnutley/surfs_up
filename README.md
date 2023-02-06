@@ -12,7 +12,7 @@
     
 ![June Temps Summary Stats](/Resources/june_temps.png)
 
-![Dec Temps Summary Stats](/Tables/dec_temps.png)
+![Dec Temps Summary Stats](/Resources/dec_temps.png)
     
 ## *Summary:*
     -This analysis can conclude that the temperatures between the months of June and Decemeber are relatively similar and therefore, the buiness would likely be profitable year round based off temperature alone. The average temperature only difference by about 4 degrees. Additionally, the highs differed only by 2 degrees while the lows differed by 8 degrees.
